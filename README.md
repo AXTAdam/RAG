@@ -83,9 +83,16 @@ For technical questions please open issue, or contact:
 - Zhichuan Xu <zhichuanxu2001@163.com>
 
 ## Citation
-```
-Bibtex Citation
-```# 
+@article{song2025graph,
+  title={Graph retrieval augmented large language models for facial phenotype associated rare genetic disease},
+  author={Song, Jie and Xu, Zhichuan and He, Mengqiao and Feng, Jinhua and Shen, Bairong},
+  journal={NPJ Digital Medicine},
+  volume={8},
+  number={1},
+  pages={543},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
 
 ## Contributions
 The following contributions were made by Zhichuan Xu:
